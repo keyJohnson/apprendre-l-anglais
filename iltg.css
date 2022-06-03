@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=muli&display=swap');
+
+html {
+  font-family:georgia ,sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+  
+}
+
+body {
+    font-size:  large;
+    margin: 5px;
+    padding: 5px;
+    min-width:320px;
+    background-image: url("keyjpg");
+    background-size: 300px;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+table,
+nav,
+ 
+div,
+section,
+summary {
+  display:block
+}
+
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: baseline
+}
+
+
+
+body{
+     
+    /*font-family: georgia,"century gothic", calibri, serif;
+    font-size: large;*/ 
+    
+}
+
+
+header{
+    
+    background:linear-gradient( -10deg,blue,green,darkblue,purple,#5544ff,blue,teal,yellow,maroon,lime,aqua,navy,olive); 
+    height:  100px ; 
+      
+    
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.p1{
+    text-align: center;
+}
+{
+      border: 5px double black;
+      display: inline-block;
+      text-transform: uppercase;
+      font-weight: bolder;
+      margin:0px 500px;
+}
+
+#idli,#id1{
+    
+      text-transform: uppercase;
+      font-weight: bolder;
+      text-align: center;
+}
+
+#id2{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+ 
+#id3{
+    display: inline-block;
+     line-height: 35px;
+     margin: 12px 40px;
+     
+     
+}
+.strong,.souligne{
+    text-decoration: underline;
+}
+ 
+ 
+
+.titre{
+     background-color: black;
+     color: silver;
+     text-shadow: 2px -3px 5px silver;
+     display: block;
+}
+#gras{
+    font-weight:bold;
+}
+tr,td,th{
+    border: 1px solid black;
+    
+}
+table{
+    font-size: 12px;
+    border-collapse:collapse;
+    display: table;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+footer{
+    height: 80px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: #c5c5c5;
+    border-top: 2px solid #aaa
+}
+
+.souli{
+    font-weight:bold;
+    text-decoration: underline;
+}
+h3{
+    font-size: 15px;
+}
+.gras{
+    font-weight:bold;
+}
+
+#idc{
+    display: inline-block;
+    margin: 25px;
+}
+
+.ita{
+    font-style: italic
+}
+
+.conteneur{
+    border: groove black 5px;
+    display: inline-block;
+    background-color: grey;
+    text-decoration: none;
+}
+#ulc:hover{
+    color:red ;
+   
+}
+.titre:hover{
+    background-color: aqua;
+}
+ 
